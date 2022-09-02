@@ -6,59 +6,12 @@
   <a href="https://github.com/Jikarinka"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Letta;Re-Recode+By+Jikarinka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 ---------
-## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285334930628">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@kyo.tang">
-    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/kontol_elite/">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto: papamamaakupulang@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
----------
 
 ## ```Whatsapp``` <a href="https://wa.me/6285334930628"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281336990781) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285334930628) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn) 
 ---------
-
-#### KELEBIHAN 📍
-| Kelebihan | Check |
-|--------|--------|
-| **Fast Respon** |[✔️](https://github.com/Jikarinka) |
-| **No Internet** |[✔️](https://github.com/Jikarinka) |
-| **Simple** |[✔️](https://github.com/Jikarinka) |
-| **Button template** |[✔️](https://github.com/Jikarinka) |
-| **Multi Device** |[✔️](https://github.com/Jikarinka) |
----------
-#### FITUR 📍
-| Fitur | Check |
-|--------|--------|
-| **Downloader** |[✔️](https://github.com/Jikarinka) |
-| **Internet** |[✔️](https://github.com/Jikarinka) |
-| **Game Rpg** |[✔️](https://github.com/Jikarinka) |
-| **Nsfw** |[✔️](https://github.com/Jikarinka) |
-| **Sticker** |[✔️](https://github.com/Jikarinka) |
-| **Game** |[✔️](https://github.com/Jikarinka) |
-| **Kerang Ajaib** |[✔️](https://github.com/Jikarinka) |
-| **Quotes** |[✔️](https://github.com/Jikarinka) |
-| **Anime** |[✔️](https://github.com/Jikarinka) |
-| **Premium** |[✔️](https://github.com/Jikarinka) |
-| **Tools** |[✔️](https://github.com/Jikarinka) |
-| **Exec** |[✔️](https://github.com/Jikarinka) |
-| **React** |[✔️](https://github.com/Jikarinka) |
----------
-
-## `SETTING`
-
-- Owner Number [Here](https://github.com/Jikarinka/kannabotv2/blob/4931979eddb7e0522a1af38cf966db8d8fb063de/config.js#L63)
-- Owner Name [Here](https://github.com/Jikarinka/kannabotv2/blob/4931979eddb7e0522a1af38cf966db8d8fb063de/config.js#L65)
-- Bot Name [Here](https://github.com/Jikarinka/kannabotv2/blob/4931979eddb7e0522a1af38cf966db8d8fb063de/config.js#L64)
 ---------
 
 ## ```Heroku Buildpack```
@@ -135,8 +88,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Jikarinka/kannabotv2/
-cd Kannabotv2
+git clone https://github.com/Alofc/YushinoV1
+cd YushinoV1
 npm install
 npm update
 ```
@@ -224,22 +177,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 
-## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/Jikarinka)
-* [`My parents`](https://github.com/Jikarinka)
-* [`All Friends`](https://github.com/Jikarinka)
-* [`All Contributors`](https://github.com/Jikarinka)
-* [`All Creator Bot`](https://github.com/Jikarinka)
-* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
-* [`Nurutomo`](https://github.com/nurutomi)
-* [`BochilGaming`](https://github.com/bochilgaming)
-* [`KannaChan`](http://github.com/kannachann)
-
-## ```Recode By 🐾```
-[![kannachann](https://github.com/Jikarinka.png?size=100)](http://github.com/kannachann)
-
-# ```Contributor 🔭```
-* [`The.Sad.Boy01`](https://github.com/Kangsad01)
-* [`AmirulDev20`](https://github.com/amiruldev20)
-* [`Rasel Comel`](https://github.com/raselcomel)
-* [`Rominaru`](https://github.com/rominaru)
+## Thanks To
