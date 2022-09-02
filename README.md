@@ -27,8 +27,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Alofc/YushinoV1
-$ cd YushinoV1
+$ https://github.com/ALofc/Yushino-V1
+$ cd Yushino-V1
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/Jikarinka/Kannabotv2#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -70,8 +70,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Alofc/YushinoV1
-cd YushinoV1
+git clone https://github.com/ALofc/Yushino-V1
+cd Yushino-V1
 npm install
 npm update
 ```
@@ -86,8 +86,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Alofc/YushinoV1
-cd YushinoV1
+git https://github.com/ALofc/Yushino-V1
+cd Yushino-V1
 npm install
 npm update
 ```
