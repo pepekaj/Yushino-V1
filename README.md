@@ -2,7 +2,6 @@
     <img src="https://telegra.ph/file/fab7d75d7ea686f8d5096.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Yushino V1</h1>
----------
 
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
 
